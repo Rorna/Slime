@@ -1,0 +1,32 @@
+{
+	"Type": "SceneInfo",
+	"Name": "SceneInfo",
+	"MainMenu": [
+		{
+			"Index": 999
+		}
+	],
+	"Tutorial": [
+		{
+			"Index": 1
+		}
+	],
+	"Stage1": [
+		{
+			"Index": 2
+		}
+	],
+	"TestScene": [
+		{
+			"Index": 1000
+		}
+	]
+}
+
+/*
+	SceneInfo
+	게임의 모든 씬 정보가 담긴 파일.
+	
+
+*/
+

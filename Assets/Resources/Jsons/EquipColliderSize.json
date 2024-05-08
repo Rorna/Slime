@@ -1,0 +1,14 @@
+{
+	"Type": "ColliderSize",
+	"Name": "EquipColliderSize",
+	"Default": [ 0.4, 0.75 ],
+	"WeaponRifle": [ 1.0, 0.5 ],
+	"WeaponBat": [ 0.9, 0.75 ]
+}
+
+
+/*
+	EquipColliderSize 는 플레이어가 장비를 장착했을 때의 사이즈 변화 값을 모아놓은 것
+	Equip 에는 오프셋 정보 없음.
+	이름은 무기 이름과 정확히 일치 시키기.
+*/

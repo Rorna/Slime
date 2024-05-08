@@ -1,0 +1,123 @@
+{
+	"Type": "Create",
+	"Name": "Tutorial_FieldObject",
+	"Player": [
+		{
+			"ObjectType": "Player",
+			"CreatePosition": [ 0, 0.259 ],
+			"CreateRotation": 0
+		}
+	],
+	"Dummy": [
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ 14.5, -6 ],
+			"CreateRotation": 0.0
+		},
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ 23.46, -9.25 ],
+			"CreateRotation": 0.0
+		},
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ 21.69, -1.61 ],
+			"CreateRotation": 0.0
+		},
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ 36.22, 4.73 ],
+			"CreateRotation": 0.0
+		},
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ 41.27, 7.05 ],
+			"CreateRotation": 0.0
+		},
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ 36.88, 15.61 ],
+			"CreateRotation": 0.0
+		},
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ 42.08, 15.65 ],
+			"CreateRotation": 0.0
+		},
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ 40.49, 25.76 ],
+			"CreateRotation": 0.0
+		},
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ 37.73, 28.64 ],
+			"CreateRotation": 0.0
+		}
+	],
+	"WeaponBat": [
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 13.15, 8.14 ],
+			"CreateRotation": 0
+		},
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 11.29, 6.49 ],
+			"CreateRotation": 0
+		}
+	],
+	"WeaponRifle": [
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 1.51, 16.3 ],
+			"CreateRotation": 0
+		},
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 4.99, 9.57 ],
+			"CreateRotation": 0
+		},
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 34, 25.6 ],
+			"CreateRotation": 0
+		}
+	],
+	"ItemLight": [
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 7.1, 14.06 ],
+			"CreateRotation": 0
+		},
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 16.21, 6.34 ],
+			"CreateRotation": 0
+		},
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 17.81, 10.15 ],
+			"CreateRotation": 0
+		}
+	],
+	"ItemSlime": [
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 31.4, 27.68 ],
+			"CreateRotation": 0
+		},
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 32.32, 23.91 ],
+			"CreateRotation": 0
+		}
+	]
+}
+
+/*
+	Scene_FieldObject
+	생성할 오브젝트를 담은 파일.
+
+*/
+

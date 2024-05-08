@@ -1,0 +1,97 @@
+{
+	"Type": "Create",
+	"Name": "Stage1_FieldObject",
+	"Player": [
+		{
+			"ObjectType": "Player",
+			"CreatePosition": [ 0, 0 ],
+			"CreateRotation": 0
+		}
+	],
+	"EnemyRifle": [
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ -10, 18 ],
+			"CreateRotation": 0.0
+		}
+	],
+	"EnemyNormal": [
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ 7.5, 17 ],
+			"CreateRotation": 0.0
+		}
+	],
+	"EnemyBat": [
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ 6.7, 10.9 ],
+			"CreateRotation": 0.0
+		}
+	],
+	"WeaponBat": [
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 10.4, 14.24 ],
+			"CreateRotation": 0
+		}
+	],
+	"ItemLight": [
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ -11.7, 21.44 ],
+			"CreateRotation": 0
+		},
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ -13.38, 14 ],
+			"CreateRotation": 0
+		},
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 22.36, 26.57 ],
+			"CreateRotation": 0
+		},
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 19.8, 34.01 ],
+			"CreateRotation": 0
+		}
+	],
+	"ItemSlime": [
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 11.38, 14.28 ],
+			"CreateRotation": 0
+		},
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ -4.47, 19.8 ],
+			"CreateRotation": 0
+		},
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 19.48, 25.28 ],
+			"CreateRotation": 0
+		},
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 14.87, 34.16 ],
+			"CreateRotation": 0
+		}
+	],
+	"Stage1Boss": [
+		{
+			"ObjectType": "BossEnemy",
+			"CreatePosition": [ 17, 29 ],
+			"CreateRotation": 0
+		}
+	]
+}
+
+/*
+	Scene_FieldObject
+	생성할 오브젝트를 담은 파일.
+
+*/
+

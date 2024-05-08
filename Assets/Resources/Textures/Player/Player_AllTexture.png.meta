@@ -1,0 +1,6029 @@
+fileFormatVersion: 2
+guid: 5e97cdff22b4e96478b4217e54d69698
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1069
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcca4e9af2906b44eb192a476d173511
+      internalID: 1508990796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1072
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf341085e3608c14586e92c96aefdfeb
+      internalID: 170439630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1066
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eb15ff6abb8824db57568384eaaf2a
+      internalID: 1366195622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1031
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cae68a2dc4011645a7299ee9206be5c
+      internalID: -1152833806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_5
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1031
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94b35b3e59dcbe40a4d786105784d90
+      internalID: 882228648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_6
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1031
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afb8ca4d183d5b4e86d602e729fd726
+      internalID: -1264116087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_7
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1031
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0a4b42e6c0aff4599a982dd61c76fa
+      internalID: 2041586555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_8
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1031
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6309703757dcd44cb120d5cd842a022
+      internalID: 524694261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 973
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580587c356f6cf94681c3402cc7c6d29
+      internalID: -1163118618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 993
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76addd6a440cf994792ebd7a49d3130c
+      internalID: -388710912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 992
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad9c72f312b74499412658d2bc65e8
+      internalID: 378531955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_12
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 992
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5631c6b421f11f842bf5a89571a1aed3
+      internalID: 1488147830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_13
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 992
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf00c47e4c983b040a9832e0102dcba6
+      internalID: -875129303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_14
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 993
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7566667ad8b9a6498337b0f5721b574
+      internalID: -1029684812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_15
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 992
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5fef12ae11d9d4aac499ee7ad4587f
+      internalID: -911007262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_16
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 992
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5453bc4bb76e04881aa7f2491798b2
+      internalID: -1544843011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_17
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 992
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71add40bd59040d4685fe2f99d40d012
+      internalID: 1744422977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_18
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 993
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7b90f698994074d892c0412a218406
+      internalID: -644272808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_19
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 992
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163ba51ef6a1a3a4eba8c1ba9fedce61
+      internalID: 823864493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 947
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbba8a4fa1f53e44daa72542830c6c45
+      internalID: -127861201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_21
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 947
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d9b9dc86e5f8642b5ab59cb1ada51d
+      internalID: 1459264464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 950
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c253d9846f8c5f4b93b3786814c80b7
+      internalID: 220225642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_23
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 950
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39005e917aabf7742839632ac581ea70
+      internalID: 1323619382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 950
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f3e8043c2115941b8c4964216925e6
+      internalID: 2127225656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_25
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 950
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c11881ba680a1641bfdd7c1a69e21dd
+      internalID: -1460037934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_26
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 950
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3e2ae2dccb4224aabf0545d4a9d2b0
+      internalID: -860226366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 950
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2b139342cf21e47b2e14c6df47f72f
+      internalID: 2104985332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_28
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 950
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aebb255c55973a49a5dec730dcc0c16
+      internalID: -1168541199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_29
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 950
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8db9ac916834aa4f9a6da60480c8167
+      internalID: 1597276426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_30
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 950
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e9feec04933c949b409ee3c0d27b79
+      internalID: 748538539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_31
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 950
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009cc272b3874ec4aa2deca42eaef2a4
+      internalID: 650838707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_32
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 950
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccc7aec23f5ba04499ac1e450c7f0d3
+      internalID: -1378712801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rifle_Move_1
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 950
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0efdc078e65cc4cb6d11fc88036942
+      internalID: -119435371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rifle_Move_2
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 950
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570fd84fb7ead80408e64c4880ee9d01
+      internalID: 261332242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rifle_Move_3
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 950
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d300eea36385418114396f461ce8a
+      internalID: -1955150996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rifle_Move_4
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 950
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0841ff9d6c955ca43b0da30482f051fb
+      internalID: 1024719537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rifle_Move_5
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 950
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aebedf14d4d22b42b1d525ce9cec7bd
+      internalID: -327441388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 911
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83287333f75f56047b38bb5b19da53ca
+      internalID: -545515443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 903
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1452f29b5fbd454478695aec38e5e3ef
+      internalID: 1005849552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_40
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 902
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db6c55d9f6bfc240a4289f77f71d861
+      internalID: -124122797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rifle_Move_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 917
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df645719bfef849bf8b595361d1751
+      internalID: 1456098466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rifle_Move_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 917
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b39c1d4d1a92da44b134a2ba5db163e
+      internalID: 66168420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rifle_Move_8
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 917
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ecdcc530b0a7d4a8edf563b9443c0f
+      internalID: -95963871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_44
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 917
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b884206bd3b1bd144b0a988c1fe31c31
+      internalID: 1543843927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_45
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 917
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ff8ef9fae1e164ca7c361dd0f01eaf
+      internalID: -239678634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_46
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 917
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ee26dc9815484dad6cb8aa87540ca
+      internalID: -829987845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_47
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 917
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1606afd66a10b044b239ed8018b43b8
+      internalID: 2127718507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_48
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 917
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d9e3372901304c95865aca774620d
+      internalID: 1971261746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_49
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 917
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b580442bf29073b4e9cdf2dd07c9e990
+      internalID: -1030934682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_50
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 917
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5011ba9799aa4e9f07d900e42ee4b
+      internalID: -1254292128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_51
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 917
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b589475d746c8e4198940404677f9b6
+      internalID: 138050644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_52
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 917
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e31a1aef9496944aa7ed9823be6df7
+      internalID: 1168317100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_53
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 917
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b21647619275594591312075ab6dedc
+      internalID: -82841986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_54
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 917
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a605f910f92339742be583b70df4d84f
+      internalID: 2093194175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_55
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 917
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23be9851b5cd4064a888fcdbe4ce91e3
+      internalID: 1597655653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_56
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 917
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e23a52ffc6ae144b21ac094e66ee77
+      internalID: 486130281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_57
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 884
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61291f539cb931346988fb01d285018e
+      internalID: -1926078348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 880
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6045a2ec52e1fb4c811d5d8bad26c99
+      internalID: -1886635148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 880
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce2c7ed27cdf204a9850c29218ef725
+      internalID: 1902110924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 879
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7d4f6860499f3488dd282a3fe40d7c
+      internalID: -52318137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 876
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224aa24454c79e844b6c1578cb7d49ab
+      internalID: -197583321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 882
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275af05eb98b45349a5817410cd6e4c2
+      internalID: -1863182748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 883
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d62795c5bc92e4c90812e40bbdc44b
+      internalID: 1810760680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad729ae9243a545a0fbcd05990419b
+      internalID: -1940598147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 857
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0169be9c89c2745a14e7cc0b61f185
+      internalID: -170290340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_66
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 857
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f9ca261bda85b4290e99bcc1381f74
+      internalID: -1794741915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_67
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 851
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd74742cee402da4aaa5fabb495b3a90
+      internalID: 196008484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_68
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 836
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e00ede0fe7d9a4b97dbc3ab733f29c
+      internalID: 142564978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_69
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 839
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35241430d085c9e4c983a3ee2f8b5f79
+      internalID: 1334031332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_70
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 839
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcf4502872dffc4e879eaf2fc4c2fc1
+      internalID: 109764838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_71
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 839
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405d98dc25f9aa243a4e34055ad14f14
+      internalID: -1541568244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_72
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 839
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe313c8ab1dc2743ad121d1121e835c
+      internalID: -97839755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_73
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 839
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b773f90328307945b915236627eeb00
+      internalID: -657246475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_74
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 839
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e273e641bf37e44aa0b3905016d351b
+      internalID: -2018902366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_75
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 839
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dac4e1c35e08c7479654e29a364a04e
+      internalID: 1578692499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_76
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 839
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380fce92efb4191499f8f3777c7a1d52
+      internalID: -439318101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_77
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 839
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6e4be0768c8d479667ae14ec86e35
+      internalID: 389625396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_78
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 839
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28867252b9de03408fb62d3b273f983
+      internalID: 353988750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_79
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 839
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2760143ff14524e4aab4073997f7c4d3
+      internalID: 1184694086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_80
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 839
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fe37763e72759408443d38ada72fe9
+      internalID: 701522108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_81
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 839
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33af1cb55551a84ca67717ed277c681
+      internalID: 2089824541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_82
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 839
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc86f7490f56b44b8f0e249a1d96dd9
+      internalID: -1066716833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_83
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 812
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f241134ea3e97045bd09cb61076438e
+      internalID: -1139898836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_84
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 812
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994ad486dc554ee42beb9d9adde0746e
+      internalID: 727506255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_85
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 818
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed4622f563846349b6f90a8f853fec2
+      internalID: 2026807610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_86
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 799
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dd7f709a293ba41812d3fefea11e5b
+      internalID: 1112179164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_87
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 806
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adfe0083c5c52945b0e94d3bb8ed4a1
+      internalID: 1519902130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_GunIdle0
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 807
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc14bacd0d1c2741b36929f17b6b18f
+      internalID: 1070891295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_GunIdle1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 806
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9444f4b96b9b449a65c99085316298
+      internalID: 551734020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_GunIdle2
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 806
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad00a738f2daeaf4e8d8f121562c7f04
+      internalID: -1466298930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_GunIdle3
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 806
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef940e9266b249c458960a216684a69c
+      internalID: 1931339175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_GunIdle4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 806
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0a9a6d1f25e414dad6d245083285f4
+      internalID: 1125366074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_GunIdle5
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 806
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760240af2adcb3249b356e7756366a2a
+      internalID: -1959566295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_GunIdle6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 806
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd74ca95d08874ba7ab53db4b1aa8e
+      internalID: 384996847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_GunIdle7
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 806
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3342b97a62805094fb8462a034a2c10b
+      internalID: 1158306329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_GunIdle8
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 807
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1eac41d804e654e88c15d480a1e5de
+      internalID: 715768523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_GunIdle9
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 806
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1d948e56ff17b41a6f988ce4f1b9d6
+      internalID: -581446466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_GunIdle10
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 806
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6587b682fd2c9498fc2c26082b16e4
+      internalID: -1869740892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_99
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 806
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aec15d3acacc649a4a807a3913b425
+      internalID: 1659572448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_100
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 806
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efe8d0503ba1ce4d847f82d48eee41e
+      internalID: 1501532702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_101
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 767
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05fb928dc75a9d4ab813486eb8b76f7
+      internalID: -1963096344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_102
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 767
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b5f9c64197dc64aac06c92db834c72
+      internalID: 499504656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_103
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 785
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89274bfbcb40cd418c052cae0469f03
+      internalID: -799859279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Rifle_Attack
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 773
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8e824233ae36e4d88b7aeb8d53966a
+      internalID: -317676808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_105
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 773
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c21d6f95856cc46b66230c954a9988
+      internalID: 2020586417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_106
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 774
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb3ca276ac67d743a3d756652db7416
+      internalID: -635813485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_107
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 752
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3748198b010acb84482a560390c86192
+      internalID: 1223405722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_108
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 741
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83c66b9537d61f4e9d9f2b63e0129eb
+      internalID: -824467325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_109
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 739
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcdbcbff534a054bb41b46b54682797
+      internalID: 17205204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 717
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9791878c51f1c642a4cd7d264c18722
+      internalID: -1760913685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_111
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 723
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde3920afc032b349a147daf81e2100f
+      internalID: -858129767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_112
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 722
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2a4ca3a43dac840aef49b8ba2db017
+      internalID: 497210013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_113
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 719
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d448f36a3afce34f83e72b1137fb497
+      internalID: 1700174781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_114
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 700
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d568bb85136e417468409aed69d0acf6
+      internalID: 938302592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 678
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd946209c1f220488a12d64c59669b5
+      internalID: -898935389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_117
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 677
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8cc97173fe52844a650d8aadb9d6dc
+      internalID: -1173262749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_118
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 677
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29b7af1b4b6fc346bc4f13af0189898
+      internalID: 1220020364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_119
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 686
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a2547e785311c4694855fe709c68fb
+      internalID: -1163847533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_120
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 692
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d1dd1b75f973a41874b3ef2001d049
+      internalID: 1666740480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_121
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 689
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8b36cc1ccf9dd448cab24e96748c35
+      internalID: 1550666908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_122
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 688
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0551b52ebfe39474c9d60cccc2e02e6b
+      internalID: -548306693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_123
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 688
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970612955101f3349b44909847dd4b95
+      internalID: -57094847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_124
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 688
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadad1c96cf8bbf4a8d1afec66790440
+      internalID: 1308531956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_126
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 664
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2312d4d92f6d948a4f4606f1e5b2e2
+      internalID: -1389927619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 644
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd38e3ecea5f864482a69ea8d5245c5
+      internalID: 409709988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_128
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 632
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063e6992ff25b9b43bb5946978a9c034
+      internalID: 419955879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_129
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 632
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd5b785ec8f7594cb87a4fc3a8160f3
+      internalID: 292531768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_130
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 653
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cafcd6d53c16874eac40b52801b9c15
+      internalID: -1815160778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_131
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 645
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8533457e47e40c43b6bd877e8aef290
+      internalID: -585508435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_132
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 643
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc6238cffffeb04ab7ac49ff18c0de6
+      internalID: -1102260728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_133
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 643
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5098a4710138f54fa87ebffa59604df
+      internalID: -2122776037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_134
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 640
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee1cad468273e04995e5676edb38f9f
+      internalID: -500450016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_135
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 644
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8b3ad1e9ca3af4cbcd001eae809491
+      internalID: 559216411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_136
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 644
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80cc77bba184bb4492cc1396d315f13
+      internalID: 2036419578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_137
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 643
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e2c69f5d63fe42bdf64ed4d744089
+      internalID: -1797433795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_138
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 643
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f901f906cf60d04c813216edb47eb1c
+      internalID: 202977706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_140
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 623
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236733353fb10dd419379ad5a2309d4b
+      internalID: -443176050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 607
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3b5172e2d2f8749894339e3c990675
+      internalID: -1325011834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_142
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 621
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8b2b1fe40f83649acfbf0ab670959f
+      internalID: 704752213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_143
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 613
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd774ff7e0ce45468cc02c138b027ef
+      internalID: -1844933266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_144
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 601
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6473f7527a6e4488e502cee26bdea4
+      internalID: 1008313264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_145
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 605
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe50c86776be3847b4600fd64409e2b
+      internalID: 2064685677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_147
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 587
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843772afd6148eb4c89ecd7ae7b9376d
+      internalID: -584307113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_148
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 598
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa01a12591bad541bb8dcca4fb9a83a
+      internalID: -464599939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 574
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e5b86d59486f5419b558b8c8c11e6e
+      internalID: -870589270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_150
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 588
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb8cfea135afe340b07c4120d6b1a88
+      internalID: 1319007431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_151
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 566
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb792062d6c1bc44ebf1a2d4768afb22
+      internalID: -489195101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_152
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 577
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1903d012b974749b588dbc2913b40a
+      internalID: 1857435959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_153
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 572
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2579a229244e9164c9fa1fc832e49652
+      internalID: 1845391079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_155
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 556
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f58df7b810b09c429ea3a02c2b641c0
+      internalID: -1132872032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_156
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 554
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbbd11fdb7ffdb4882289bffecf8287
+      internalID: -1986781152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_157
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 543
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c3009d863635c40b21c1612237f1fb
+      internalID: 1034564967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_158
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 555
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60735d5040024ff43814b9207fe67ab5
+      internalID: 1937924410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 535
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550df81c86d2f6c4f96409c14bca3caa
+      internalID: 1051884422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_160
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 519
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b122143de1e52d046abe450ec7d88211
+      internalID: -2110963181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_161
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 534
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb64466e2ea1c04cae2e5857a5fbfa7
+      internalID: 1672808505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_162
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 532
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7993fb70d3577429a9feb77d5d650a
+      internalID: -1082264098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 503
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaae899178665a44a574c79aeb720b9
+      internalID: -217533872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_165
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 497
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3ac578713ee0949bd650623133453e
+      internalID: -1875706483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_166
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 510
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f87b7d9206fc1b4a9a77337e8692acd
+      internalID: -250961821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_167
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 507
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99641721e1dc05646abd1aad737c6deb
+      internalID: -319542830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_168
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 494
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c637e36595c8fb848bf5ff8b6b3738f5
+      internalID: 218468147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_169
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 494
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab8903c111177c40a9ab2fb00bfd131
+      internalID: -1001317274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_170
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 494
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4555a96025ba725469fb761d8e2302a3
+      internalID: 758817024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_171
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 495
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2024b5ffa1a7d4a9d3fb2366074402
+      internalID: 1471349046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_172
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 495
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f864fe5cdd6fe48babdd8b514ccfc9
+      internalID: 51007391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_173
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 495
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5eaead1fd7c104a8d77a7b40dbdbf2
+      internalID: 183211863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_175
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 489
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93720ef6fd38ce443ac88845b4c572dd
+      internalID: -1205695402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_176
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 487
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f77cbac5a4608041a10b35edc3fad35
+      internalID: -2006125534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 453
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40ca07be150884448247056d174cceb
+      internalID: -1545324139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_178
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 474
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19994ca56bb7b5248a1d1574c25327c2
+      internalID: 410834231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_179
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 462
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc344c620a39d5c48a443cb9e11db393
+      internalID: 131657873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_180
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 462
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1900541fa77f3d04590e7faa43f40562
+      internalID: -175285086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_181
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 461
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bacb5968b4728448d9c28c7c5eb3dd
+      internalID: 161972976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_182
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 462
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e02467f8e49cb49bd4daeacc931deb
+      internalID: 851243854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_184
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 429
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd15a6cb2b76b7144a0ffda7ca2819db
+      internalID: -1989334909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_185
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 443
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade2cc2a8948ac94a8e38eeb108fd06a
+      internalID: -263063831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_186
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 423
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30bffa63efbc9b4da4d7662f9d4debc
+      internalID: -1194582609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_187
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 442
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65370c9920d848a42847bc1f5df7c897
+      internalID: 1095951747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_188
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 425
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4264bb50c3ff9094eb8c5c8455fd8c78
+      internalID: 771312811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_189
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 425
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7903c894cd26787419c271fe0eebfbb8
+      internalID: -2002971854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_190
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 425
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1180366d0de53cd42a0b037fa77c1e91
+      internalID: 664373365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_191
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 425
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738d3e8055e84314b8fa67bac7f8f4c3
+      internalID: -2005956267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_192
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 425
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af996c19deda0f4787c9bbf4b5133ed
+      internalID: -197432690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_193
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 425
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32bc3b99ca899b46a086dadeb9d3a86
+      internalID: 906619007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_194
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 425
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fa2e3183411d24db39ee3b327399c7
+      internalID: -1539261835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_195
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 425
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87acd31f9aef8640a24c2a8cf31e5f6
+      internalID: -1001340339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 431
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901d589f34b208947b0afa9d45b20610
+      internalID: -840465375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_197
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 414
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab433760f50e874e8c892fcc7816d66
+      internalID: -999738468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 407
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b2e34bc83a99540b4a4f11b1f0421f
+      internalID: 893082192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_200
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 383
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14ef3a9d1486ec48ba52235d5af2268
+      internalID: -699774948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_201
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 398
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b445c315c724db9478ab25989e8a497c
+      internalID: 155416249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_202
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 392
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13e8cf5e3a1c6e4baefcb7ace8f0746
+      internalID: -1860004383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_203
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 392
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419c8e8d2b258554599290725fe65245
+      internalID: 1092827354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_204
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 392
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba483d5cb923634abb15d90d851258d
+      internalID: 195877073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 393
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90a49b880d2491439887e1f7f6c1cb6
+      internalID: 956608939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_206
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 379
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143dcc9c455265145bd8a86951a2de46
+      internalID: 410308645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_207
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 367
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4c5838d8d9c954a9e4185cf1f2d984
+      internalID: -622652352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 363
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86b26b2458e87b41b2b7a1deb7d9659
+      internalID: 697695473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 360
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61df8ec47a49d145a74e144b1a8f9f0
+      internalID: 770642888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_211
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 336
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6a8991ec5081c4fa1db58663be965f
+      internalID: 2104316168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 317
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dedd788ec82f884c9d0699de3288937
+      internalID: 750331874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_214
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 322
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8d6cdfc892c314aa68f9c8a2602b8e
+      internalID: -271263028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 322
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68312e6f2203d334ca4a52fe6fb58fd1
+      internalID: 1832199398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_216
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 297
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa0fdb803401624688c0afd0932f287
+      internalID: -1246730827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_218
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 277
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedacb78def53f34ba216fc5fc51d106
+      internalID: -1974859268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 289
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679b0d7f26b19bb43981b7ce07d6d4c7
+      internalID: 1155855491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 272
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fa54bf49fbc224f800251814d4ed47
+      internalID: 475276381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_222
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 254
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd2081f613820b48bfba2d7ecebe06a
+      internalID: -679214977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_223
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 253
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313e1ddd4f9ab99438535aa10de0a6af
+      internalID: -1664367228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_224
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 255
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f361563a1f2965a438b71a214df50942
+      internalID: 1938000721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_225
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 256
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5000a2ed3409254bb2dfacfa5f3bdda
+      internalID: 1072660462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 251
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92219fa529669bf4ebddad9884e7dc10
+      internalID: -899034391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_227
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 232
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb9632f68a12e541b216be229492f0d
+      internalID: 345180990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 227
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead68bf03c7b0374893442bb07ecc611
+      internalID: 1337691525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_230
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 227
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d82897c8bc45d428334b6ac2658f64
+      internalID: 1510012485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_231
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 210
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d637e4c86c37e8a42951880d60766b63
+      internalID: -184553765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_232
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 206
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c15f69a2d1c9854895414da55ffb207
+      internalID: -1782715978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_233
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 215
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43674a67443a6804b92597a15826f5b1
+      internalID: 597991866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_234
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 223
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a476217c4fd220b49a59cc5b0cd8a788
+      internalID: 1618852971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_235
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 223
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae17b0ad3f2ce5e4a881f0c7468408cb
+      internalID: -1639162865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_236
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 223
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d45456e4c30a14fab16af0e20e7360
+      internalID: 390594881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_237
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 223
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d091396c7b6484a9ad3c8ff5bb696d
+      internalID: 597880319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_238
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 223
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8223c09c11bae1046b448b9af43e4a35
+      internalID: -797776872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_239
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 223
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62697235efd7f484ca81f59329bd04a9
+      internalID: -30312738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_240
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 223
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83d7a57c936b9e4ebab09a3e6765093
+      internalID: -1973322442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Leg_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 219
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d103460c9c99974f8492981103d7310
+      internalID: -2142930533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 183
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cf0151accc87f4eba0401fc015e01f
+      internalID: -337649243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_243
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 182
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c4f66e27e029942a4d2497c5399d83
+      internalID: -1667425968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_244
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 193
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa8bcd65c6ea524ab586cf7e5489aca
+      internalID: 888150227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_245
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 182
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487a79b0135ce7c44802329fb61e4406
+      internalID: 1390655722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_246
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 190
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e371bf58454c3654680f9ef5a9422239
+      internalID: 483555398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 156
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a411c9eae17264b88a24763ced2567
+      internalID: 1020647387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_248
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 164
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739adfb8fe82ef44c948e3822d5f92ad
+      internalID: -1571710982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_249
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 161
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e08e64bf1b09c4fb8c5772c9ec4a32
+      internalID: -1278710799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_250
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 148
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c5843aaa199c444a981fc75f6b9d19
+      internalID: -419253109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_251
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 148
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3ad8dd8622f044487ff674b5db24e6
+      internalID: 2079932568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_252
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 149
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed2e03733b7fc340bb9d0e48701d5d8
+      internalID: -2051330540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_253
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 157
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9cb95dacc9fa947ad19aac3d5ad5f2
+      internalID: -39820479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Bat_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 137
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e59eec05613db47bd2a6cf47723828
+      internalID: -1559997732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_255
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 138
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6f61128ddc0964f8ccbbdf062be91e
+      internalID: 871527781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_256
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 121
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ad4a94e5d68e4ba492db7e60d9e89
+      internalID: 294105266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_257
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 118
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f575911cf58d7447867ec79bdec23d5
+      internalID: -701535198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 111
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4abff34b0720f41846cc2b63a79c93
+      internalID: -884043519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_259
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 103
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc96971ef87382444b86a69d909620c0
+      internalID: 1195733211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_260
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 100
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783de7ca1ff517e459f7b79d011ec04a
+      internalID: -1928650917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_261
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59455ab3d0ad0ab46a8ceb63e915a8ec
+      internalID: -1709733668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_262
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 92
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a63aa0ffc53f949a5c9a62505defbe
+      internalID: -1659627161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_263
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 74
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bdba335be8f8641afcaeead42742e9
+      internalID: -781183002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_264
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 73
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de696a5b4176d4492b9775196367a1
+      internalID: -475584736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 67
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c441593f9ef324aacf3788e57c1e94
+      internalID: -1716151439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_266
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 47
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241cfbc8d4b69f9489afcc31c831c6a3
+      internalID: 1380396955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_267
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 55
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd322a2323d55447893f59a3e80bd22
+      internalID: 688176364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_268
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 59
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f4fc7bc5969114a9dec7fe8492384c
+      internalID: 1297386864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_269
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 26
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eeac270bc678848838c086e5780943
+      internalID: -1806699580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Default_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 21
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948709fa0d8b78f4e8995c631591f94e
+      internalID: 1946496306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_271
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 27
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a0635a4dac99a4389e59177f50225b
+      internalID: 14966064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_272
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 28
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d75bf55daa65543a418c1466fb47fa
+      internalID: 853951138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_273
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 41
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d2d25effd781f45b0dbe883ae3ae27
+      internalID: 569231922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_274
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 29
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683fe8bf2df164844815e3dc33e611af
+      internalID: 3758843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_275
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 14
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf6494c00c8726448d4b1ef9a62bb16
+      internalID: 1178957919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_276
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 14
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e0a434fbe4453439231df58f6b9b3e
+      internalID: -1698480490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_277
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 14
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb29d6ceb0a1e149ae2660f214ecbf2
+      internalID: -588259436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_278
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 9
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeb3addea6d02a409e7bc243fc2ce9c
+      internalID: -1679965295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_279
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 14
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d94b873a04b1c4a9a31e4fd5dad1c2
+      internalID: 1012254864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_280
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 14
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275e2068a7ba8c54584f9e06e4215c13
+      internalID: -1792155329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Cobra_Use_This 1_281
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 8
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc00a1bc55f2054b9e6da362f7d067f
+      internalID: 177801054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Player_Bat_1: -1545324139
+      Player_Bat_2: 893082192
+      Player_Bat_3: 697695473
+      Player_Bat_4: 750331874
+      Player_Bat_5: 475276381
+      Player_Bat_6: 1337691525
+      Player_Bat_7: -337649243
+      Player_Bat_8: -1559997732
+      Player_Bat_Attack_1: -1886635148
+      Player_Bat_Attack_2: 1902110924
+      Player_Bat_Attack_3: -52318137
+      Player_Bat_Attack_4: -197583321
+      Player_Bat_Attack_5: -1863182748
+      Player_Bat_Attack_6: 1810760680
+      Player_Cobra_Use_This 1_0: -395525508
+      Player_Cobra_Use_This 1_1: 1508990796
+      Player_Cobra_Use_This 1_10: -388710912
+      Player_Cobra_Use_This 1_100: 1501532702
+      Player_Cobra_Use_This 1_101: -1963096344
+      Player_Cobra_Use_This 1_102: 499504656
+      Player_Cobra_Use_This 1_103: -799859279
+      Player_Cobra_Use_This 1_105: 2020586417
+      Player_Cobra_Use_This 1_106: -635813485
+      Player_Cobra_Use_This 1_107: 1223405722
+      Player_Cobra_Use_This 1_108: -824467325
+      Player_Cobra_Use_This 1_109: 17205204
+      Player_Cobra_Use_This 1_111: -858129767
+      Player_Cobra_Use_This 1_112: 497210013
+      Player_Cobra_Use_This 1_113: 1700174781
+      Player_Cobra_Use_This 1_114: 938302592
+      Player_Cobra_Use_This 1_115: -843473583
+      Player_Cobra_Use_This 1_117: -1173262749
+      Player_Cobra_Use_This 1_118: 1220020364
+      Player_Cobra_Use_This 1_119: -1163847533
+      Player_Cobra_Use_This 1_12: 1488147830
+      Player_Cobra_Use_This 1_120: 1666740480
+      Player_Cobra_Use_This 1_121: 1550666908
+      Player_Cobra_Use_This 1_122: -548306693
+      Player_Cobra_Use_This 1_123: -57094847
+      Player_Cobra_Use_This 1_124: 1308531956
+      Player_Cobra_Use_This 1_125: -2134876692
+      Player_Cobra_Use_This 1_126: -1389927619
+      Player_Cobra_Use_This 1_128: 419955879
+      Player_Cobra_Use_This 1_129: 292531768
+      Player_Cobra_Use_This 1_13: -875129303
+      Player_Cobra_Use_This 1_130: -1815160778
+      Player_Cobra_Use_This 1_131: -585508435
+      Player_Cobra_Use_This 1_132: -1102260728
+      Player_Cobra_Use_This 1_133: -2122776037
+      Player_Cobra_Use_This 1_134: -500450016
+      Player_Cobra_Use_This 1_135: 559216411
+      Player_Cobra_Use_This 1_136: 2036419578
+      Player_Cobra_Use_This 1_137: -1797433795
+      Player_Cobra_Use_This 1_138: 202977706
+      Player_Cobra_Use_This 1_139: 1015880357
+      Player_Cobra_Use_This 1_14: -1029684812
+      Player_Cobra_Use_This 1_140: -443176050
+      Player_Cobra_Use_This 1_142: 704752213
+      Player_Cobra_Use_This 1_143: -1844933266
+      Player_Cobra_Use_This 1_144: 1008313264
+      Player_Cobra_Use_This 1_145: 2064685677
+      Player_Cobra_Use_This 1_146: -41836265
+      Player_Cobra_Use_This 1_147: -584307113
+      Player_Cobra_Use_This 1_148: -464599939
+      Player_Cobra_Use_This 1_15: -911007262
+      Player_Cobra_Use_This 1_150: 1319007431
+      Player_Cobra_Use_This 1_151: -489195101
+      Player_Cobra_Use_This 1_152: 1857435959
+      Player_Cobra_Use_This 1_153: 1845391079
+      Player_Cobra_Use_This 1_154: 29186625
+      Player_Cobra_Use_This 1_155: -1132872032
+      Player_Cobra_Use_This 1_156: -1986781152
+      Player_Cobra_Use_This 1_157: 1034564967
+      Player_Cobra_Use_This 1_158: 1937924410
+      Player_Cobra_Use_This 1_16: -1544843011
+      Player_Cobra_Use_This 1_160: -2110963181
+      Player_Cobra_Use_This 1_161: 1672808505
+      Player_Cobra_Use_This 1_162: -1082264098
+      Player_Cobra_Use_This 1_163: 101567444
+      Player_Cobra_Use_This 1_165: -1875706483
+      Player_Cobra_Use_This 1_166: -250961821
+      Player_Cobra_Use_This 1_167: -319542830
+      Player_Cobra_Use_This 1_168: 218468147
+      Player_Cobra_Use_This 1_169: -1001317274
+      Player_Cobra_Use_This 1_17: 1744422977
+      Player_Cobra_Use_This 1_170: 758817024
+      Player_Cobra_Use_This 1_171: 1471349046
+      Player_Cobra_Use_This 1_172: 51007391
+      Player_Cobra_Use_This 1_173: 183211863
+      Player_Cobra_Use_This 1_174: 860272378
+      Player_Cobra_Use_This 1_175: -1205695402
+      Player_Cobra_Use_This 1_176: -2006125534
+      Player_Cobra_Use_This 1_178: 410834231
+      Player_Cobra_Use_This 1_179: 131657873
+      Player_Cobra_Use_This 1_18: -644272808
+      Player_Cobra_Use_This 1_180: -175285086
+      Player_Cobra_Use_This 1_181: 161972976
+      Player_Cobra_Use_This 1_182: 851243854
+      Player_Cobra_Use_This 1_183: 1145802799
+      Player_Cobra_Use_This 1_184: -1989334909
+      Player_Cobra_Use_This 1_185: -263063831
+      Player_Cobra_Use_This 1_186: -1194582609
+      Player_Cobra_Use_This 1_187: 1095951747
+      Player_Cobra_Use_This 1_188: 771312811
+      Player_Cobra_Use_This 1_189: -2002971854
+      Player_Cobra_Use_This 1_19: 823864493
+      Player_Cobra_Use_This 1_190: 664373365
+      Player_Cobra_Use_This 1_191: -2005956267
+      Player_Cobra_Use_This 1_192: -197432690
+      Player_Cobra_Use_This 1_193: 906619007
+      Player_Cobra_Use_This 1_194: -1539261835
+      Player_Cobra_Use_This 1_195: -1001340339
+      Player_Cobra_Use_This 1_197: -999738468
+      Player_Cobra_Use_This 1_198: -347176968
+      Player_Cobra_Use_This 1_2: 170439630
+      Player_Cobra_Use_This 1_200: -699774948
+      Player_Cobra_Use_This 1_201: 155416249
+      Player_Cobra_Use_This 1_202: -1860004383
+      Player_Cobra_Use_This 1_203: 1092827354
+      Player_Cobra_Use_This 1_204: 195877073
+      Player_Cobra_Use_This 1_206: 410308645
+      Player_Cobra_Use_This 1_207: -622652352
+      Player_Cobra_Use_This 1_208: -631076716
+      Player_Cobra_Use_This 1_21: 1459264464
+      Player_Cobra_Use_This 1_211: 2104316168
+      Player_Cobra_Use_This 1_212: -138736021
+      Player_Cobra_Use_This 1_214: -271263028
+      Player_Cobra_Use_This 1_216: -1246730827
+      Player_Cobra_Use_This 1_217: 1315599624
+      Player_Cobra_Use_This 1_218: -1974859268
+      Player_Cobra_Use_This 1_22: 220225642
+      Player_Cobra_Use_This 1_221: 569913777
+      Player_Cobra_Use_This 1_222: -679214977
+      Player_Cobra_Use_This 1_223: -1664367228
+      Player_Cobra_Use_This 1_224: 1938000721
+      Player_Cobra_Use_This 1_225: 1072660462
+      Player_Cobra_Use_This 1_227: 345180990
+      Player_Cobra_Use_This 1_228: -1595046667
+      Player_Cobra_Use_This 1_23: 1323619382
+      Player_Cobra_Use_This 1_230: 1510012485
+      Player_Cobra_Use_This 1_231: -184553765
+      Player_Cobra_Use_This 1_232: -1782715978
+      Player_Cobra_Use_This 1_233: 597991866
+      Player_Cobra_Use_This 1_234: 1618852971
+      Player_Cobra_Use_This 1_235: -1639162865
+      Player_Cobra_Use_This 1_236: 390594881
+      Player_Cobra_Use_This 1_237: 597880319
+      Player_Cobra_Use_This 1_238: -797776872
+      Player_Cobra_Use_This 1_239: -30312738
+      Player_Cobra_Use_This 1_24: 2127225656
+      Player_Cobra_Use_This 1_240: -1973322442
+      Player_Cobra_Use_This 1_243: -1667425968
+      Player_Cobra_Use_This 1_244: 888150227
+      Player_Cobra_Use_This 1_245: 1390655722
+      Player_Cobra_Use_This 1_246: 483555398
+      Player_Cobra_Use_This 1_248: -1571710982
+      Player_Cobra_Use_This 1_249: -1278710799
+      Player_Cobra_Use_This 1_25: -1460037934
+      Player_Cobra_Use_This 1_250: -419253109
+      Player_Cobra_Use_This 1_251: 2079932568
+      Player_Cobra_Use_This 1_252: -2051330540
+      Player_Cobra_Use_This 1_253: -39820479
+      Player_Cobra_Use_This 1_255: 871527781
+      Player_Cobra_Use_This 1_256: 294105266
+      Player_Cobra_Use_This 1_257: -701535198
+      Player_Cobra_Use_This 1_259: 1195733211
+      Player_Cobra_Use_This 1_26: -860226366
+      Player_Cobra_Use_This 1_260: -1928650917
+      Player_Cobra_Use_This 1_261: -1709733668
+      Player_Cobra_Use_This 1_262: -1659627161
+      Player_Cobra_Use_This 1_263: -781183002
+      Player_Cobra_Use_This 1_264: -475584736
+      Player_Cobra_Use_This 1_266: 1380396955
+      Player_Cobra_Use_This 1_267: 688176364
+      Player_Cobra_Use_This 1_268: 1297386864
+      Player_Cobra_Use_This 1_269: -1806699580
+      Player_Cobra_Use_This 1_27: 2104985332
+      Player_Cobra_Use_This 1_271: 14966064
+      Player_Cobra_Use_This 1_272: 853951138
+      Player_Cobra_Use_This 1_273: 569231922
+      Player_Cobra_Use_This 1_274: 3758843
+      Player_Cobra_Use_This 1_275: 1178957919
+      Player_Cobra_Use_This 1_276: -1698480490
+      Player_Cobra_Use_This 1_277: -588259436
+      Player_Cobra_Use_This 1_278: -1679965295
+      Player_Cobra_Use_This 1_279: 1012254864
+      Player_Cobra_Use_This 1_28: -1168541199
+      Player_Cobra_Use_This 1_280: -1792155329
+      Player_Cobra_Use_This 1_281: 177801054
+      Player_Cobra_Use_This 1_29: 1597276426
+      Player_Cobra_Use_This 1_3: 1366195622
+      Player_Cobra_Use_This 1_30: 748538539
+      Player_Cobra_Use_This 1_31: 650838707
+      Player_Cobra_Use_This 1_32: -1378712801
+      Player_Cobra_Use_This 1_38: -545515443
+      Player_Cobra_Use_This 1_4: -1152833806
+      Player_Cobra_Use_This 1_40: -124122797
+      Player_Cobra_Use_This 1_44: 1543843927
+      Player_Cobra_Use_This 1_45: -239678634
+      Player_Cobra_Use_This 1_46: -829987845
+      Player_Cobra_Use_This 1_47: 2127718507
+      Player_Cobra_Use_This 1_48: 1971261746
+      Player_Cobra_Use_This 1_49: -1030934682
+      Player_Cobra_Use_This 1_5: 882228648
+      Player_Cobra_Use_This 1_50: -1254292128
+      Player_Cobra_Use_This 1_51: 138050644
+      Player_Cobra_Use_This 1_52: 1168317100
+      Player_Cobra_Use_This 1_53: -82841986
+      Player_Cobra_Use_This 1_54: 2093194175
+      Player_Cobra_Use_This 1_55: 1597655653
+      Player_Cobra_Use_This 1_56: 486130281
+      Player_Cobra_Use_This 1_57: -1926078348
+      Player_Cobra_Use_This 1_6: -1264116087
+      Player_Cobra_Use_This 1_64: -1940598147
+      Player_Cobra_Use_This 1_66: -1794741915
+      Player_Cobra_Use_This 1_67: 196008484
+      Player_Cobra_Use_This 1_68: 142564978
+      Player_Cobra_Use_This 1_69: 1334031332
+      Player_Cobra_Use_This 1_7: 2041586555
+      Player_Cobra_Use_This 1_70: 109764838
+      Player_Cobra_Use_This 1_71: -1541568244
+      Player_Cobra_Use_This 1_72: -97839755
+      Player_Cobra_Use_This 1_73: -657246475
+      Player_Cobra_Use_This 1_74: -2018902366
+      Player_Cobra_Use_This 1_75: 1578692499
+      Player_Cobra_Use_This 1_76: -439318101
+      Player_Cobra_Use_This 1_77: 389625396
+      Player_Cobra_Use_This 1_78: 353988750
+      Player_Cobra_Use_This 1_79: 1184694086
+      Player_Cobra_Use_This 1_8: 524694261
+      Player_Cobra_Use_This 1_80: 701522108
+      Player_Cobra_Use_This 1_81: 2089824541
+      Player_Cobra_Use_This 1_82: -1066716833
+      Player_Cobra_Use_This 1_83: -1139898836
+      Player_Cobra_Use_This 1_84: 727506255
+      Player_Cobra_Use_This 1_85: 2026807610
+      Player_Cobra_Use_This 1_86: 1112179164
+      Player_Cobra_Use_This 1_87: 1519902130
+      Player_Cobra_Use_This 1_9: -1163118618
+      Player_Cobra_Use_This 1_99: 1659572448
+      Player_Default_Leg_: -1760913685
+      Player_Default_Leg_10: 770642888
+      Player_Default_Leg_11: 1832199398
+      Player_Default_Leg_12: 1155855491
+      Player_Default_Leg_13: -899034391
+      Player_Default_Leg_14: -2142930533
+      Player_Default_Leg_2: -898935389
+      Player_Default_Leg_3: 409709988
+      Player_Default_Leg_4: -1325011834
+      Player_Default_Leg_5: -870589270
+      Player_Default_Leg_6: 1051884422
+      Player_Default_Leg_7: -217533872
+      Player_Default_Leg_8: -840465375
+      Player_Default_Leg_9: 956608939
+      Player_Default_Walk_1: 378531955
+      Player_Default_Walk_2: -127861201
+      Player_Default_Walk_3: 1005849552
+      Player_Default_Walk_4: -170290340
+      Player_Default_Walk_5: 1020647387
+      Player_Default_Walk_6: -884043519
+      Player_Default_Walk_7: -1716151439
+      Player_Default_Walk_8: 1946496306
+      Player_GunIdle0: 1070891295
+      Player_GunIdle1: 551734020
+      Player_GunIdle10: -1869740892
+      Player_GunIdle2: -1466298930
+      Player_GunIdle3: 1931339175
+      Player_GunIdle4: 1125366074
+      Player_GunIdle5: -1959566295
+      Player_GunIdle6: 384996847
+      Player_GunIdle7: 1158306329
+      Player_GunIdle8: 715768523
+      Player_GunIdle9: -581446466
+      Player_Rifle_Attack: -317676808
+      Player_Rifle_Move_1: -119435371
+      Player_Rifle_Move_2: 261332242
+      Player_Rifle_Move_3: -1955150996
+      Player_Rifle_Move_4: 1024719537
+      Player_Rifle_Move_5: -327441388
+      Player_Rifle_Move_6: 1456098466
+      Player_Rifle_Move_7: 66168420
+      Player_Rifle_Move_8: -95963871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

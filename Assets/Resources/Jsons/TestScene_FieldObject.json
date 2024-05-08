@@ -1,0 +1,39 @@
+{
+	"Type": "Create",
+	"Name": "TestScene_FieldObject",
+	"Player": [
+		{
+			"ObjectType": "Player",
+			"CreatePosition": [ 0, 0 ],
+			"CreateRotation": 0
+		}
+	],
+	"EnemyNormal": [
+		{
+			"ObjectType": "Enemy",
+			"CreatePosition": [ 10, -2 ],
+			"CreateRotation": 0.0
+		}
+	],
+	"WeaponRifle": [
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 4.0, 5.5 ],
+			"CreateRotation": 0
+		}
+	],
+	"ItemLight": [
+		{
+			"ObjectType": "Item",
+			"CreatePosition": [ 4.0, 7 ],
+			"CreateRotation": 0
+		}
+	]
+}
+
+/*
+	Scene_FieldObject
+	생성할 오브젝트를 담은 파일.
+
+*/
+

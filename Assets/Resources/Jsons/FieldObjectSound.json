@@ -1,0 +1,104 @@
+{
+	"Type": "Sound",
+	"Name": "FieldObjectSound",
+	"Player": [
+		{
+			"Equip": "SlimeEquip",
+			"Unequip": "SlimeUnequip",
+			"ThrowAttack": "SlimeThrow",
+			"Attack": "Sound_PlayerDefaultAttack",
+			"Hit": "SlimeHit",
+			"WeaponRifle": "Sound_PlayerRifleAttack",
+			"WeaponBat": "Sound_PlayerBatAttack",
+			"ItemSlime": "SlimeAttack"
+		}
+	],
+
+	"Enemy": [
+		{
+			"Equip": "Sound_PlayerEquip1",
+			"Unequip": "Sound_PlayerUnequip1",
+			"ThrowAttack": "Sound_PlayerThrowAttack",
+			"Attack": "Sound_PlayerDefaultAttack",
+			"Hit": "Sound_PlayerDefaultAttackHit",
+			"WeaponRifle": "Sound_PlayerRifleAttack",
+			"WeaponBat": "Sound_PlayerBatAttack"
+		}
+	],
+	"EnemyRifle": [
+		{
+			"Equip": "Sound_PlayerEquip1",
+			"Unequip": "Sound_PlayerUnequip1",
+			"ThrowAttack": "Sound_PlayerThrowAttack",
+			"Attack": "Sound_PlayerDefaultAttack",
+			"Hit": "Sound_PlayerDefaultAttackHit",
+			"WeaponRifle": "Sound_PlayerRifleAttack",
+			"WeaponBat": "Sound_PlayerBatAttack"
+		}
+	],
+	"EnemyBat": [
+		{
+			"Equip": "Sound_PlayerEquip1",
+			"Unequip": "Sound_PlayerUnequip1",
+			"ThrowAttack": "Sound_PlayerThrowAttack",
+			"Attack": "Sound_PlayerDefaultAttack",
+			"Hit": "Sound_PlayerDefaultAttackHit",
+			"WeaponRifle": "Sound_PlayerRifleAttack",
+			"WeaponBat": "Sound_PlayerBatAttack"
+		}
+	],
+	"EnemyNormal": [
+		{
+			"Equip": "Sound_PlayerEquip1",
+			"Unequip": "Sound_PlayerUnequip1",
+			"ThrowAttack": "Sound_PlayerThrowAttack",
+			"Attack": "Sound_PlayerDefaultAttack",
+			"Hit": "Sound_PlayerDefaultAttackHit",
+			"WeaponRifle": "Sound_PlayerRifleAttack",
+			"WeaponBat": "Sound_PlayerBatAttack"
+		}
+	],
+	"Stage1Boss": [
+		{
+			"Equip": "Sound_PlayerEquip1",
+			"Unequip": "Sound_PlayerUnequip1",
+			"ThrowAttack": "Sound_PlayerThrowAttack",
+			"Attack": "Sound_PlayerDefaultAttack",
+			"Hit": "Sound_PlayerDefaultAttackHit",
+			"WeaponRifle": "Sound_PlayerRifleAttack",
+			"WeaponBat": "Sound_PlayerBatAttack"
+		}
+	],
+	"Dummy": [
+		{
+			"Equip": "Sound_PlayerEquip1",
+			"Unequip": "Sound_PlayerUnequip",
+			"ThrowAttack": "Sound_PlayerThrowAttack",
+			"Attack": "Sound_PlayerDefaultAttack",
+			"Hit": "Sound_PlayerDefaultAttackHit",
+			"WeaponRifle": "Sound_PlayerRifleAttack",
+			"WeaponBat": "Sound_PlayerBatAttack"
+		}
+	],
+
+	"WeaponBat": [
+		{
+			"Hit": "Sound_BatHit"
+		}
+	],
+
+	"WeaponRifle": [
+		{
+			"Hit": "Sound_BatHit"
+		}
+	]
+
+}
+
+
+/*
+	작성 규칙
+	1. Hit: 맞았을 때의 소리
+	2. Player 에서 무기 이름에 해당하는 것들은 해당 아이템들의 어택 사운드
+
+*/

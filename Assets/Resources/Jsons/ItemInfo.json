@@ -1,0 +1,73 @@
+{
+	"Type": "ObjectInfo",
+	"Name": "ItemInfo",
+	"WeaponRifle": [
+		{
+			"ItemType": "Ranged",
+			"UsePool": false,
+			"DestroyTime": 0.5,
+			"DestroyAfterContact": false,
+			"Reequipable": true
+		}
+	],
+	"WeaponBat": [
+		{
+			"ItemType": "Melee",
+			"UsePool": false,
+			"DestroyTime": 0.5,
+			"DestroyAfterContact": false,
+			"Reequipable": true
+		}
+	],
+	"Bullet": [
+		{
+			"ItemType": "Bullet",
+			"UsePool": true,
+			"DestroyTime": 0.3,
+			"DestroyAfterContact": true,
+			"Reequipable": false
+		}
+	],
+
+	"ItemLight": [
+		{
+			"ItemType": "Light",
+			"UsePool": false,
+			"DestroyTime": 0.3,
+			"DestroyAfterContact": false,
+			"Reequipable": false
+		}
+	],
+	"ItemSlime": [
+		{
+			"ItemType": "Slime",
+			"UsePool": false,
+			"DestroyTime": 0.3,
+			"DestroyAfterContact": false,
+			"Reequipable": true
+		}
+	],
+	"SlimeBullet": [
+		{
+			"ItemType": "Bullet",
+			"UsePool": false,
+			"DestroyTime": 0.3,
+			"DestroyAfterContact": true,
+			"Reequipable": false
+		}
+	]
+}
+
+/*
+	ItemInfo
+	1. 아이템의 정보가 저장되어 있는 json
+	2. 첫 번째는 아이템 타입에 대한 정보.
+	3. 항상 이곳의 이름과 프리팹의 이름이 일치해야함
+	*확장성을 염두해 배열로 저장.
+
+	Reequipable: 재장착 가능 여부.
+	라이트 오브젝트 같은 것들은 재장착 불가능.
+	-> 콜라이더 비활성화로 못 줍게 처리
+
+*/
+

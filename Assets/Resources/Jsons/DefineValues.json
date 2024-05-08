@@ -1,0 +1,21 @@
+{
+	"Type": "DefineValue",
+	"Name": "DefineValue",
+	"BodyRotateSpeed": 700.0,
+	"CameraMoveSmooth": 5.0,
+	"ItemRotateSpeed": -500,
+	"ThrowSpeed": 12.0,
+	"PlayerMoveSpeed": 5.0,
+	"HandAttackDelayTime": 0.5,
+	"BulletSpeed": 12.0,
+	"RifleAttackDelayTime": 0.1,
+	"BulletDestroyTime": 0.3,
+	"DefaultDestroyTime": 0.3,
+	"EnemySightDistance": 3.0,
+	"EnemySightAngle": 180,
+	"RifleAttackRange": 2.0
+}
+
+/*
+	RifleAttackRange 은 EnemySightDistance 보다 항상 작게 세팅해주기.
+*/

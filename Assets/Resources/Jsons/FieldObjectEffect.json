@@ -1,0 +1,55 @@
+{
+	"Type": "Effect",
+	"Name": "FieldObjectEffect",
+	"Bullet": [
+		{
+			"State": "Dead",
+			"EffectName": "BulletHitEffect",
+			"Position": [ 0.0, 0.0 ],
+			"Angle": 0,
+			"DestroyTime":  0.5
+		},
+
+		{
+			"State": "Create",
+			"EffectName": "CreateEffect",
+			"Position": [ 0.4, 0.5 ],
+			"Angle": 49.5,
+			"DestroyTime": 1.0
+		}
+	]
+}
+
+
+/*
+	상태별로 이펙트의 정보를 저장.
+	EffectName 은 이펙트 프리팹의 이름임.
+
+*/
+
+
+/*
+	샘플
+	{
+	"Type": "Effect",
+	"Name": "FieldObjectEffect",
+	"Bullet": [
+		{
+			"State": "Dead",
+			"EffectName": "DeadEffect",
+			"Position": [ 0.4, 0.5 ],
+			"Angle": 45.5
+		},
+
+		{
+			"State": "Create",
+			"EffectName": "CreateEffect",
+			"Position": [ 0.4, 0.5 ],
+			"Angle": 49.5
+		}
+	]
+}
+
+
+*/
+
