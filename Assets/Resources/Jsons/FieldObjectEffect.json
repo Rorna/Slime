@@ -7,7 +7,7 @@
 			"EffectName": "BulletHitEffect",
 			"Position": [ 0.0, 0.0 ],
 			"Angle": 0,
-			"DestroyTime":  0.5
+			"DestroyTime": 0.5
 		},
 
 		{
@@ -27,9 +27,16 @@
 
 */
 
+/*
+	状態ごとにエフェクトの情報を保存します。
+	EffectNameはエフェクトプリファブの名前です。
+
+*/
+
 
 /*
-	샘플
+	example
+
 	{
 	"Type": "Effect",
 	"Name": "FieldObjectEffect",

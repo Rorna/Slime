@@ -63,8 +63,8 @@
 	적에 대한 정보를 담은 파일
 	원거리인지, 근거리인지, ai 종류 등 기술
 	AIRotateDirection: AIStatic 일 때만 기술, AIStatic 이 아닐 경우에는 ["None"] 입력. 얘만 이걸로
-	AIState: None 일 경우에는 컴포넌트 ai 세팅 안해줌. -> 이 놈 나중에 구현. IdleStatic / IdlePatrol 둘 중 하나 입력
-	BasePrefab: 불러올 프리팹 이름. 나중에 다른 스프라이트의 적들도 만들 수 있으니...
+	AIState: None 일 경우에는 컴포넌트 ai 세팅 안해준다. IdleStatic / IdlePatrol 둘 중 하나 입력
+	BasePrefab: 불러올 프리팹 이름. 
 	EnemyAttackType: 디폴트 공격 타입.
 	BossAttackType: hp 감소량에 따라 순서대로 공격 타입이 바뀜. 보스타입이 아니라면 "None" 으로 기입.
 
@@ -84,6 +84,37 @@
 			"HasWeapon": true, -> bool
 			"WeaponName": "WeaponBat" -> string
 		}
+
+*/
+
+/*
+		EnemyInfo：敵に関する情報を含むファイル
+
+		敵が遠距離か近距離か、AIのタイプなど。
+		AIRotateDirection: AIStaticの場合のみ指定。AIStaticでない場合は["None"]を入力。
+		AIState: Noneの場合は、AIコンポーネントを設定しない。IdleStaticまたはIdlePatrolのいずれかを入力。
+		BasePrefab: 読み込むプリファブの名前。
+		EnemyAttackType: デフォルトの攻撃タイプ。
+		BossAttackType: HPの減少に応じて順番に攻撃タイプが変わる。ボスタイプでない場合は「None」と入力。
+
+
+		HPの割合に応じて攻撃パターン（攻撃タイプ）を変更
+
+		割合は（最大体力 / BossAttackTypeの数）
+
+		例）BossAttackTypeの数が3個で、最大体力が6の場合、2の体力が減るごとにパターンが変更されます。
+
+		注意！
+		EnemyTypeとアイテムを一致させる必要があります。
+
+		{
+				"BasePrefab": "Enemy", -> string
+				"EnemyType": "Melee", -> EnemyTypeEnum
+				"AIState": "IdleStatic", -> AIStateEnum
+				"AIRotateDirection": [ "UP", "DOWN", "LEFT", "RIGHT" ], -> List<Vector3>
+				"HasWeapon": true, -> bool
+				"WeaponName": "WeaponBat" -> string
+			}
 
 */
 

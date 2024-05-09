@@ -19,3 +19,7 @@
 /*
 	RifleAttackRange 은 EnemySightDistance 보다 항상 작게 세팅해주기.
 */
+
+/*
+	RifleAttackRange は EnemySightDistance よりいつも小さく.
+*/
