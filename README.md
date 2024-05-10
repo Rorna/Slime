@@ -11,6 +11,8 @@
 > + 環境と言語 : Unity, C#
 
 # プライ動画
+以下の画像をクリックすると、YouTubeに移動します。
+
 [![Video Title](http://img.youtube.com/vi/c1H2WOhfPBk/0.jpg)](https://www.youtube.com/watch?v=c1H2WOhfPBk)
 
 # このプロジェクトに関する詳しい説明
