@@ -9,8 +9,12 @@
 > + Team Size : Solo Project
 > + Development Tools and Languages : Unity, C#
 
+
+<!--
 # Gameplay Video
 Click the image below to go to YouTube.
 
 [![Video Title](http://img.youtube.com/vi/c1H2WOhfPBk/0.jpg)](https://www.youtube.com/watch?v=c1H2WOhfPBk)
+-->
+
 
